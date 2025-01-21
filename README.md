@@ -11,7 +11,7 @@
 
 ## Tech Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,postgresql,mysql,visualstudio,webstorm,javascript,react,jquery,html,css,jenkins,azure,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,postgresql,visualstudio,webstorm,javascript,react,angular,html,css,aws,github" />
   </a>
   
     

@@ -1,5 +1,5 @@
 
-![Galaxy-Above-The-Mountains.jpg](https://postimg.cc/RJ14FZQv)
+![Alt Text](https://i.imgur.com/EY3Zc5F.png)
 <div style="text-align: center;" >
 <h1>Hi! , I'm <b>Bouchaib</b> 👨‍🎓 </h1>
 <h2>Software Engineer from South Africa </h2>

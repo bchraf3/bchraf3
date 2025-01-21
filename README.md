@@ -1,7 +1,7 @@
 
 ![Alt Text](https://ibb.co/swnC9QT)
 <div style="text-align: center;" >
-<h1>Hi! , I'm <b>Bouchaib</b> 🦋</h1>
+<h1>Hi! , I'm <b>Bouchaib</b> </h1>
 <h2>Software Engineer from South Africa </h2>
 </div>
 
@@ -11,7 +11,7 @@
 
 ## Tech Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,postgresql,visualstudio,idea,webstorm,javascript,react,angular,html,css,aws,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,postgresql,vscode,idea,webstorm,js, ts,react,angular,html,css,aws,github" />
   </a>
   
     

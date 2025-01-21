@@ -1,5 +1,5 @@
 
-![Alt Text](https://i.imgur.com/EY3Zc5F.png)
+![Alt Text](https://i.imgur.com/3XKf6Ar.png)
 <div style="text-align: center;" >
 <h1>Hi! , I'm <b>Bouchaib</b> 👨‍🎓 </h1>
 <h2>Software Engineer from South Africa </h2>

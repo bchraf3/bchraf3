@@ -7,7 +7,6 @@
 
 👩🏻‍🎓 BSc Computer Science Graduate, University of Pretoria <br>
 👩🏻‍💻 Seeking Opportunities <br>
-⚛️ Currently learning Cybersecurity Fundamentals <br>
 
 ## Tech Stack
   <a href="https://skillicons.dev">
